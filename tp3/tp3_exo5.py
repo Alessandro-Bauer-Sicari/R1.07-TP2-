@@ -12,10 +12,9 @@ else:
     tarif2 = 0
 
     for h in range(debut, fin):
-        else:
-
         if (h >= 0 and h < 7) or (h >= 17 and h < 24):
             tarif1 += 1
+        else:
             tarif2 += 1
 
     print("Vous avez loué votre vélo pendant")
