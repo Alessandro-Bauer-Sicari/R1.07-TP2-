@@ -1,4 +1,3 @@
-
 nom1 = input("Entrez le nom de la première personne : ")
 prenom1 = input("Entrez le prénom de la première personne : ")
 
